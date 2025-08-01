@@ -125,21 +125,6 @@ Plotly precisa da biblioteca **kaleido** para exportar gráficos como imagem:
 pip install -U kaleido
 ```
 
-No seu `README.md`, basta referenciar os arquivos salvos
-
-```
-### 📊 Boxplots por Cluster
-
-![Recency](figs/recency_boxplot.png)
-![Frequency](figs/frequency_boxplot.png)
-![Monetary](figs/monetary_boxplot.png)
-
-### 🧾 Tabela Resumo dos Clusters
-
-![Tabela Resumo](figs/cluster_summary_table.png)
-
-```
-
 ---
 
 ## ✅ Resultados
