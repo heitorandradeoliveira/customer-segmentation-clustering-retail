@@ -202,3 +202,17 @@ São os **clientes mais valiosos** : compram com muita frequência, gastam muito
 - O **Cluster 2** , embora pequeno, concentra **clientes de altíssimo valor** — são prioridade máxima para retenção e satisfação.
 - O **Cluster 0** é o **maior e mais engajado** , com bom potencial de receita contínua.
 - Já o **Cluster 1** é o grupo com **maior risco de abandono** e menor valor — ideal para testar estratégias de reengajamento.
+
+---
+
+### Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
+
+---
+
+### Contato
+
+LinkedIn: [linkedin.com/in/heitorandradeoliveira](https://linkedin.com/in/heitorandradeoliveira)
+
+---
